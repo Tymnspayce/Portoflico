@@ -33,13 +33,13 @@ const projectList = [
   {
     title: "PassMyBook - An Initiative to grow education without financial limits",
     description:
-      "Pass My Book is a great platform where you can Grow Emotionally and Mentally . This Web App lets you pass your used technologies books to those ones who have actual need of that.",
+      "Pass My Book is a great platform where you can Grow Emotionally and Mentally . This Web App lets you pass your used technologies books to those ones who have actual need of that. This is like an e-commerce website for the used books . It helps in Passing or we can say sharing of the used books between individuals and Students.",
     url: "https://passmybook--584aditya.repl.co/",
   },
   {
-    title: "God_of_War_Fanverse",
+    title: "God_of_War_Fandom - A Web app platform for the fans",
     description:
-      "This is a website project for a game that inspires me to make this website for God of war Fans. This web app gather all the god of war fans at one place to share their thoughts and ideas about the game.",
+      "This is a website project for a game that inspires me to make this website for God of war Fans. This web app gather all the god of war fans at one place to share their thoughts and ideas about the game. They can Get more information like character voices, more background story.",
     url: "https://gowar.netlify.app/",
   },
 ];
